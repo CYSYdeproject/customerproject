@@ -10,6 +10,6 @@ public class App {
 		SpringApplication.run(App.class, args);
 		System.out.println("ooooooooooooo");
 		System.out.println("hello everybody");
-	System.out.println("nice to meet you!!!1111");
+	System.out.println("nice to  futfrt meet you!!!1111");
 	}
 }
